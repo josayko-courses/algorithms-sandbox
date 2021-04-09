@@ -1,4 +1,4 @@
-from "./data-structures/linked_list.py" import LinkedList
+from linked_list import LinkedList
 
 def merge_sort(linked_list):
     """
